@@ -2,3 +2,6 @@
 
 #Imprimir en pantalla
 print("Hola Mundo")
+
+#Imprimir en pantalla
+print("Hola Mundo")
