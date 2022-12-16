@@ -14,5 +14,12 @@ input("Como te llamas?")
 varString = "AlChacon"
 varInt = 3
 varFloat = 0.3
-varBoolean = true
+varBoolean = True
 
+#Concatenacion
+"""
+En una cadena de texto se debe convertir a string
+Una unica imprecion lo hace automaticamente
+"""
+print("Mi nombre es: " + varString + " Y el nuemro es " + str(varInt))
+print(varFloat) 
