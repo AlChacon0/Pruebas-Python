@@ -14,6 +14,7 @@ input("Como te llamas?")
 varString = "AlChacon"
 varInt = 3
 varFloat = 0.3
+varComplex = 3 + 1j
 varBoolean = True
 
 #Concatenacion
