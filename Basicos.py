@@ -24,3 +24,5 @@ Una unica imprecion lo hace automaticamente
 """
 print("Mi nombre es: " + varString + " Y el nuemro es " + str(varInt))
 print(varFloat) 
+
+"Linea Nueva"
